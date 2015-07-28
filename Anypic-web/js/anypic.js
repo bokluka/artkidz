@@ -1,7 +1,7 @@
 $(function() {
   Parse.$ = jQuery;
 
-  Parse.initialize("PklSbwxITu46cOumt6tdWw8Jtg2urg0vj0CrbLr0", "ipsJoKYYfvE0Fmlu3ThuUQOKdJ79jbuATO2AhmEg");
+  Parse.initialize("hXlTW132cms8NPueEETyrqM6F0jGuo92T9bOskNj", "fSv1kQyDq4TqoRzQCNgi2XznJBIzDaFRZ0Y9ccSZ");
 
   // Photo Model
   // -----------
