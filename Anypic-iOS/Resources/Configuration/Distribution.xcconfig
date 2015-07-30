@@ -10,7 +10,7 @@
 #include "Pods/Target Support Files/Pods/Pods.distribution.xcconfig"
 
 CODE_SIGN_IDENTITY = 
-CODE_SIGN_IDENTITY[sdk=iphoneos*] = iPhone Distribution: Parse Inc
-BUNDLE_IDENTIFIER = com.parse.Anypic
+CODE_SIGN_IDENTITY[sdk=iphoneos*] = iPhone Distribution: Spasko
+BUNDLE_IDENTIFIER = co.spas.Anypic
 
 BUILD_VERSION = 2.0
